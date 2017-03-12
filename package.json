@@ -1,0 +1,19 @@
+{
+  "name": "andela-slc-day-1",
+  "version": "1.0.0",
+  "description": "\"These are my solutions to the Self Learning Clinic Projects - Day 0\"\u001b[1\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harunapopoola/andela-slc-day-1.git"
+  },
+  "author": "Haruna Popoola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harunapopoola/andela-slc-day-1/issues"
+  },
+  "homepage": "https://github.com/harunapopoola/andela-slc-day-1#readme"
+}
