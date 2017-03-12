@@ -1,6 +1,6 @@
 'use strict'
 
-var app = require('../app/dataTypes.js');
+var app = require('../app/datatypes.js');
 
 describe("Data types tests ", function() {
   describe("Case for some falsy values", function() {
