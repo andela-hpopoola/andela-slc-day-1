@@ -10,12 +10,12 @@ describe("Case for illogical input:", function() {
       expect(app.getPrimes('andela')).toBe('Invalid Input');
     });
 
-    it("should return `Invalid Input ` for [0, 1, 2]", function() {
-      expect(app.getPrimes([0, 1, 2])).toBe('Invalid Input');
+    it("should return `Invalid Input ` for [0, 1, 2, 5, 8]", function() {
+      expect(app.getPrimes([0, 1, 2, 5, 8])).toBe('Invalid Input');
     });
 
     it("should return `Invalid Input ` for 7.5", function() {
-      expect(app.getPrimes(7.5)).toBe('Invalid Input');
+      expect(app.getPrimes(56.9)).toBe('Invalid Input');
     });
 
   });
